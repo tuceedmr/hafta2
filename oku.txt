@@ -1,3 +1,5 @@
 2. Hafta
 
-Bu hafta bash betiği yazmayı öğrendik. Kullanıcıdan site adresi alıp, ping atarak bağlantıyı kontrol eden bir kod yazdım. Bu sayede terminal üzerinden işlem yapmayı denedim.
+Bu hafta Bash betik dili kullanarak terminalde çalışan bir betik yazdım.  
+Kullanıcıdan ping atılacak site adresi alınıyor ve bu adrese ping işlemi yapılıyor.  
+Kullanıcıdan veri alma ve komut çalıştırma işlemlerini öğrendim.
