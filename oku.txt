@@ -1,0 +1,3 @@
+2. Hafta
+
+Bu hafta bash betiği yazmayı öğrendik. Kullanıcıdan site adresi alıp, ping atarak bağlantıyı kontrol eden bir kod yazdım. Bu sayede terminal üzerinden işlem yapmayı denedim.
