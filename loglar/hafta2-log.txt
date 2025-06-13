@@ -1,0 +1,4 @@
+Hafta 2 Log:
+
+Bash betiği ile kullanıcıdan site adresi alınıp ping işlemi yapıldı.  
+Kod başarıyla çalıştı ve test edildi.
